@@ -25,5 +25,5 @@ A Python application that uses OpenAI's Whisper model to transcribe audio and vi
 
 ## Demo
 
-<iframe src="https://player.vimeo.com/video/1061482495" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+[Watch the video on Vimeo](https://vimeo.com/1061482495)
 
