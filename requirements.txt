@@ -1,0 +1,3 @@
+openai-whisper
+watchdog
+PyQt5
